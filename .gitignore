@@ -1,0 +1,14 @@
+# Environnement virtuel
+env/
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+
+# Fichiers de configuration de l'IDE
+.vscode/
+.idea/
+
+# Fichiers non nécessaires
+*tempo_graph.py
+*memory_graph.py
